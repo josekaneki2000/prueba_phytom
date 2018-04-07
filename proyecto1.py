@@ -1,0 +1,10 @@
+nombre= input("dame tu nombre")
+apellidos= input("Dame tu apellido")
+edad= input("Dame tu edad")
+escuela= input("dime tu escuela")
+estatura= input("Dime tu estatura")
+pais=input("Dime tu nacionalidad")
+recidencia=input("Dime tu residencia")
+##print("nombre",nombre,"\n apellidos",apellidos,"\nescuela",escuela,"\nestatura",estatura,"\npais",pais,"\nresidencia",residencia)
+print((nombre),(apellidos),(edad),(escuela),(estatura),(pais),(residencia))
+##datos importantes
