@@ -1,4 +1,4 @@
 # prueba_phytom
 Jose antonio Lopez 
-progranmacion-Sexto Semestre
+programacion-Sexto Semestre
 Curso de phytom
