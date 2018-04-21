@@ -1,0 +1,13 @@
+print("Cuadrado")
+lado1=int(input("Define la medida del lado1:"))
+lado2=int(input("Define la medida del lado2:"))
+resultado=(lado1*lado2)
+print("El area del cuadrado es?:",resultado)
+input("......")
+
+print("Triangulo")
+base=int(input("Define la medida de la base: "))
+altura=int(input("Define la medida de la altura: "))
+resultado=(base*altura/2)
+print("El area del trinagulo es: ",resultado)
+input("......")

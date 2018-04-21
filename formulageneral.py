@@ -1,0 +1,7 @@
+print("Programa de la formula general")
+a=int(input("Ingresa el valor de a: "))
+b=int(input("ingresa el valor de b: "))
+c=int(input("ingresa el valor de c: "))
+resultado=(a+b+(a**2)-3/c+2**2)
+print("El resultado es: ",resultado)
+input("...........")
